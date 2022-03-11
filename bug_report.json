@@ -1,1 +1,18 @@
-
+{
+  "bag report",
+  "id": 90293198,
+  "summary": "not registering",
+  "project": "website https://coinmarketcap.com/",
+  "component": "registration",
+  "version": "iPhone-V14.7.1",
+  "severity": "critical",
+  "priority": "medium",
+  "status": "new",
+  "author": "Balenko Sergey",
+  "assigned to": "Ivan",
+  "description":[ 
+    {"steps": "after registration, enter your correct data in the Email Address and password windows"},
+    {"actual result": "kicked out of the site"},
+    {"expected result": "login successful"}
+    ]
+  }
