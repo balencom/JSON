@@ -10,7 +10,7 @@
   "author": "Balenko Sergey",
   "assigned to": "Ivan",
   "description":[ 
-    {"steps": "after registration, enter your correct data in the Email Address and password windows"},
+    {"steps to play": "after registration, enter your correct data in the Email Address and password windows"},
     {"actual result": "kicked out of the site"},
     {"expected result": "login successful"}
     ]
